@@ -94,11 +94,11 @@ I have been developing in python for about 3 years now. I started with frontend,
                   
                   
   <p align="left">
-                      <a href="https://www.github.com/S1S9S" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/S1S9S"><img src="https://github-readme-stats.vercel.app/api?username=S1S9S&show_icons=true&hide=stars,prs,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="S1S9S's GitHub stats" /></a>
+    <a href="https://www.github.com/S1S9S" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+    </a></p>### Badges<b>My GitHub Stats</b><a
+    href="http://www.github.com/S1S9S"><img src="https://github-readme-stats.vercel.app/api?username=S1S9S&show_icons=true&hide=stars,prs,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="S1S9S's GitHub stats" /></a>
