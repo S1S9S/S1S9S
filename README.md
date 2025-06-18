@@ -88,12 +88,12 @@ I have been developing in python for about 3 years now. I started with frontend,
                   </picture>
                 </a>
               
-                    </p>
+   </p>
                     
-                  ### Socials
+   Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://www.github.com/S1S9S" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
